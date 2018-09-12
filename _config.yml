@@ -218,7 +218,7 @@ social:
   #Twitter: https://twitter.com/your-user-name
   Weibo: https://weibo.com/2803215752/profile?topnav=1&wvr=6&is_all=1
   #豆瓣: http://douban.com/people/your-user-name
-  zhihu: https://www.zhihu.com/people/hu-zhi-heng-13/activities
+  Zhihu: https://www.zhihu.com/people/hu-zhi-heng-13/activities
 
 
 # Social Links Icons
@@ -233,7 +233,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-  zhihu: zhihu
+  Zhihu: zhihu
 
 
 # Sidebar Avatar
