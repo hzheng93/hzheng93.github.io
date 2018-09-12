@@ -93,7 +93,7 @@ rss: false
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -219,7 +219,8 @@ social:
   Weibo: https://weibo.com/2803215752/profile?topnav=1&wvr=6&is_all=1
   #豆瓣: http://douban.com/people/your-user-name
   Zhihu: https://www.zhihu.com/people/hu-zhi-heng-13/activities
-
+  javlib:
+  pornhub:
 
 # Social Links Icons
 # Icon Mapping:
