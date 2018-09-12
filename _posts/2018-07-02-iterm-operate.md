@@ -27,7 +27,7 @@ tags:
 * 查看历史命令：command + ; 
 * 查看剪贴板历史：command + shift + h
 
-### 其他
+## 其他
 
 * 清除当前行：ctrl + u 
 * 到行首：ctrl + a 
@@ -43,7 +43,7 @@ tags:
 * 清屏1：command + r 
 * 清屏2：ctrl + l
 
-### 补充
+## 补充
 
 不用鼠标也可以选择文本 ：Cmd + F 调出搜索框后，输入搜索内容，按 tab 自动识别选中复制，Cmd + V 粘贴
 
