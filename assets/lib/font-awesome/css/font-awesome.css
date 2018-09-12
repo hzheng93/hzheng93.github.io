@@ -1300,6 +1300,9 @@
 .fa-weibo:before {
   content: "\f18a";
 }
+.fa-zhihu:before {
+  content: "\f63f";
+}
 .fa-renren:before {
   content: "\f18b";
 }
